@@ -1,0 +1,1 @@
+- Honor authorized_keys from data bag to have SSH access w/o insecure key
