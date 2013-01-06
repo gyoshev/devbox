@@ -1,0 +1,7 @@
+{
+    "id": "ssh",
+    "authorized_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA4iqvTTRu4IVYcBMJv9xdZeUunw4P59b7SeEoZB7zr8cmqaR/8MCBaTNGXRnYi3stNHAeMNgHBXar3dFIOBWDJtJs2i3enTCvPMgMwRknOW8t8c/VVx91DwB4H684bnWqRyq0cKqqVodZFcUXIpynCNn+zrJqdYluk7tJ35eAhdV5NXx+5zFrfhbkG/1pks7U//nSzd5B7uQHrZYkziXqwF5JFQe68VDrv50UbX7kWGF/zT4Df8H1id5AZ5xmg0IQjCF3sILuWJM3Hs1rfWTaFkdfQbtqoFJYyjDq2J3/hg9j7aOwQQOUHikDnR066WQEfioQ5KkUQKiqgJGKqWhYcQ== alex@gyoshev.net",
+        "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAvD1goT0eOAHRdB5980nelHhKke/XBp8oKsAWEaRjHM4vCLYsLbk1lROfNU2a+LEtlMemArnL1jRM0BH0ryAPFqm1c4Lf/ibnf7HHYfMt9IPSkAeJvGRBBdQd6kuJhiC9zkHBdDis9yjytKjjh9FBVgGaHyhIlK9GCNt+9uunVGckaLhd7t4JWaQwXGS7UZluO7yVjkMvzMvq/AL19+fgZj4vId+6OU5M+yVIESRzyegTOsEU6AeyY2IJsyJprRl+pD2fUz4bxVwzfwtYaP44S+cujgtMG9/wewXU9r7TugCIYqHXkTm5a//IaJIbjT+/gXeybTHpXjkdGWT95InsMw== alex@gyoshev.net"
+    ]
+}

@@ -17,20 +17,18 @@ SITE
     yum (2.0.6)
 
 GIT
-  remote: https://github.com/gyoshev/personalize
-  ref: master
-  sha: fffd134251c02d48b55de4482f1488c0c581a0b5
-  specs:
-    personalize (0.1.1)
-      git (>= 0.0.0)
-      user (>= 0.0.0)
-
-GIT
   remote: https://github.com/opscode-cookbooks/apt
   ref: master
   sha: ea834265247cc8b507ac37ab3a34a9b44ed27a11
   specs:
     apt (1.7.0)
+
+PATH
+  remote: ../devbox-personalize
+  specs:
+    personalize (0.1.1)
+      git (>= 0.0.0)
+      user (>= 0.0.0)
 
 DEPENDENCIES
   apt (>= 0)
