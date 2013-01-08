@@ -1,1 +1,1 @@
-- Honor authorized_keys from data bag to have SSH access w/o insecure key
+- Allow devbox to be continiously provisioned with vagrant (through insecure key or supply vagrant with secure key)
